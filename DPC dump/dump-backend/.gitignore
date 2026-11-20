@@ -12,3 +12,10 @@ __pycache__/
 
 # Uploaded photos
 uploads/
+
+# Frontend dependencies and build files
+node_modules/
+dist/
+
+# IDE settings
+.vscode/
